@@ -41,7 +41,7 @@ All prizes live in the `[prizes/](prizes/)` directory. Each prize is a markdown 
 | [LP-0015](prizes/LP-0015.md) | General cross-program calls via tail calls               | Large  | Open   |
 | [LP-0016](prizes/LP-0016.md) | Anonymous Forum with Threshold Moderation                | Large  | Open   |
 | [LP-0017](prizes/LP-0017.md) | Whistleblower: document upload and indexing mini-app     | Medium | Open   |
-| [LP-0018](prizes/LP-0018.md) | BTC–LEZ Adaptor Signature Swap: Feasibility Study        | Large  | Draft  |
+| [LP-0019](prizes/LP-0019.md) | BTC–LEZ Adaptor Signature Swap: Feasibility Study        | Large  | Draft  |
 
 ### Proposing a New Prize
 
